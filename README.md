@@ -1,8 +1,7 @@
 Ramps-1.4.2
 ===========
 
-forked from ultimachine/Ramps 1.4
-
+forked from ultimachine/Ramps 1.4 and GermanRepRap/Ramps-1.4.2
 
 The RAMPS 1.4.2 Change log
 
@@ -17,7 +16,3 @@ The RAMPS 1.4.2 Change log
 * Connector for external reset added.
 
 * Labeled D8, D9,D10 with Heatbed, Extrude 1, Fan and Extruder 2.
-
-
-Fully assembled available from German RepRap www.germanreprap.com
-
