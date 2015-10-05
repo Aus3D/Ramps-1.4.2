@@ -3,7 +3,14 @@ Ramps-1.4.2
 
 forked from ultimachine/Ramps 1.4 and GermanRepRap/Ramps-1.4.2
 
-The RAMPS 1.4.2 Change log
+RAMPS 1.4.3 Change log
+
+* All necessary parts 12/24V compatible
+
+* Better MOSFETs
+ * Lower RDSon, less heat
+
+RAMPS 1.4.2 Change log
 
 * Standard blade fuses instead of thermal fuses increasing the heat resilience.
  	
