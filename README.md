@@ -1,9 +1,9 @@
-Ramps-1.4.3
+RAMPS 1.4.3
 ===========
 
 forked from ultimachine/Ramps 1.4 and GermanRepRap/Ramps-1.4.2
 
-RAMPS 1.4.3 Change log
+#####RAMPS 1.4.3 Change log
 
 * Works with 12/24V
  * Capacitors updated to operate at 24V 
@@ -18,7 +18,7 @@ RAMPS 1.4.3 Change log
  * Allows easier modification to run RAMPS on Arduino Due
  
 
-RAMPS 1.4.2 Change log
+#####RAMPS 1.4.2 Change log
 
 * Standard blade fuses instead of thermal fuses increasing the heat resilience.
  	
