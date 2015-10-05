@@ -8,7 +8,7 @@ RAMPS 1.4.3 Change log
 * All necessary parts 12/24V compatible
 
 * Better MOSFETs
- * Lower RDSon, less heat
+ * Lower RDSon, less heat, higher current capability
 
 RAMPS 1.4.2 Change log
 
