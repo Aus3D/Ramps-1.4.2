@@ -1,14 +1,22 @@
-Ramps-1.4.2
+Ramps-1.4.3
 ===========
 
 forked from ultimachine/Ramps 1.4 and GermanRepRap/Ramps-1.4.2
 
 RAMPS 1.4.3 Change log
 
-* All necessary parts 12/24V compatible
+* Works with 12/24V
+ * Capacitors updated to operate at 24V 
 
-* Better MOSFETs
- * Lower RDSon, less heat, higher current capability
+* Improved MOSFETs, swapped to Infineon IPD036N04L G 
+ * Lower RDSon, 3.9mOhm vs 16mOhm at Vgs = 5V
+ * SMD, good heat dissipation via PCB
+ * Higher current capability
+
+* Selectable Logic-Level Voltage
+ * Jumper to select between 5V and Arduino IOREF
+ * Allows easier modification to run RAMPS on Arduino Due
+ 
 
 RAMPS 1.4.2 Change log
 
