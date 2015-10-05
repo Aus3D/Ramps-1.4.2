@@ -16,6 +16,8 @@ forked from ultimachine/Ramps 1.4 and GermanRepRap/Ramps-1.4.2
 * Selectable Logic-Level Voltage
  * Jumper to select between 5V and Arduino IOREF
  * Allows easier modification to run RAMPS on Arduino Due
+
+* Additional 12/24V Auxiliary output
  
 
 #####RAMPS 1.4.2 Change log
